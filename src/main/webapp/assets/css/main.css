@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+input {
+		width: 200px;
+		height: 30px;
+}
+div {
+	width: 100vw;
+	margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px
+}
+label{
+	margin-bottom: 8px;
+}
+.auto {
+	width: auto;
+	height: auto;
+}
+select {
+	width: 200px;
+	height: 30px;
+}
+textarea{
+	width: 200px;
+}
+button{
+	width: 200px
+}
